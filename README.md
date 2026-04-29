@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Harsh Saini 👋
 
-<!--
-**harshxengr/harshxengr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer focused on building scalable web applications, backend systems, cloud infrastructure, and AI powered products.
 
-Here are some ideas to get you started:
+I build clean, high performance solutions that solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* Engineer focused on practical, production ready software
+* Strong interest in Full Stack Development, Cloud Computing, DevOps, and AI Automation
+* Continuously learning modern systems, architecture, and emerging technologies
+* Open to remote roles, freelance projects, and serious collaborations
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Shadcn/ui
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+
+### Cloud and DevOps
+
+* AWS
+* Docker
+* Linux
+* Nginx
+* CI/CD
+* GitHub Actions
+
+---
+
+## Current Focus
+
+* Scalable backend systems
+* Cloud deployment and infrastructure
+* System design
+* Performance optimization
+* AI integrations for business workflows
+* Kubernetes
+  
+---
+
+## GitHub Goals
+
+* Build useful real world products
+* Contribute to quality open source projects
+* Improve engineering depth
+* Ship consistently
+
+---
+
+## Open To Opportunities
+
+* Full Time Roles
+* Freelance Work
+* Remote Projects
+* Startup Collaborations
+
+---
+
+## Connect With Me
+
+* LinkedIn: [https://www.linkedin.com/in/harshxengr/](https://www.linkedin.com/in/harshxengr/)
+* X: [https://x.com/harshxengr](https://x.com/harshxengr)
+* Portfolio: [https://harshsaini.vercel.app/](https://harshsaini.vercel.app/)
+* Email: [singhharshsaini7@gmail.com](mailto:singhharshsaini7@gmail.com)
+
+---
+
+## Motto
+
+Build skills. Build systems. Build value.
