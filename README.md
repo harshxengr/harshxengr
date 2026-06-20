@@ -29,6 +29,7 @@ I build clean, high performance solutions that solve real business problems.
 ### Backend
 
 * Node.js
+* Bun.js
 * Express.js
 * REST APIs
 
