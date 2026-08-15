@@ -1,15 +1,13 @@
 # Hi, I'm Harsh Saini 👋
 
-Full Stack Engineer focused on building scalable web applications, backend systems, cloud infrastructure, and AI powered products.
-
-I build clean, high performance solutions that solve real business problems.
+Backend Engineer building AI-integrated, real-time systems — distributed backends, concurrency-safe financial systems, and LLM-powered automation.
 
 ---
 
 ## About Me
 
-* Engineer focused on practical, production ready software
-* Strong interest in Full Stack Development, Cloud Computing, DevOps, and AI Automation
+* Backend systems, real-time infrastructure, and AI/LLM integration
+* Production patterns: concurrency control, event-driven architecture, workflow automation
 * Continuously learning modern systems, architecture, and emerging technologies
 * Open to remote roles, freelance projects, and serious collaborations
 
