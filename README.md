@@ -1,90 +1,49 @@
 # Hi, I'm Harsh Saini 👋
 
-Backend Engineer building AI-integrated, real-time systems — distributed backends, concurrency-safe financial systems, and LLM-powered automation.
+**Backend Engineer** | CS graduate (2026) | Roorkee, India
+
+I build real-time, event-driven backend systems with **TypeScript and Node.js**: REST APIs, WebSocket services, relational data models, and background job pipelines with Redis. I care about secure access control, reliable state handling, and code that is easy to test and deploy.
+
+I'm looking for a **Backend Engineer** role (remote, or on-site in tier 1 Indian cities).
 
 ---
 
-## About Me
+## Featured Projects
 
-* Backend systems, real-time infrastructure, and AI/LLM integration
-* Production patterns: concurrency control, event-driven architecture, workflow automation
-* Continuously learning modern systems, architecture, and emerging technologies
-* Open to remote roles, freelance projects, and serious collaborations
+### [WorkspaceAI](https://github.com/harshxengr) | Real-Time Collaboration & AI Knowledge Assistant
+A collaborative workspace with an AI knowledge assistant.
+- REST APIs with authentication and role-based access control (RBAC)
+- Real-time updates over WebSockets
+- Relational data modeling with PostgreSQL and Prisma
+- **Stack:** Node.js, TypeScript, Express.js, PostgreSQL, Prisma, WebSockets
+
+<!-- EDIT: replace the link above with the exact repo URL, then add 1-2 bullets with real results (e.g. what it handles, how it is deployed) -->
+
+### [Incident-Triage-Agent](https://github.com/harshxengr) | AI-Powered Incident Management System
+An agent-based system that triages incidents through reliable state transitions.
+- Multi-agent workflow with evaluation-driven iteration
+- Real-time status updates over WebSockets
+- Redis-backed asynchronous processing (Streams / Pub-Sub)
+- **Stack:** Node.js, TypeScript, PostgreSQL, Redis, WebSockets
+
+<!-- EDIT: replace the link above with the exact repo URL, and keep only the bullets that match what you built -->
 
 ---
 
 ## Tech Stack
 
-### Frontend
-
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* Shadcn/ui
-
-### Backend
-
-* Node.js
-* Bun.js
-* Express.js
-* REST APIs
-
-### Databases
-
-* PostgreSQL
-* MongoDB
-
-### Cloud and DevOps
-
-* AWS
-* Docker
-* Linux
-* Nginx
-* CI/CD
-* GitHub Actions
+| Area | Technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python |
+| **Backend** | Node.js, Express.js, Bun.js, REST APIs, WebSockets |
+| **Databases** | PostgreSQL, MongoDB, Redis, Prisma ORM |
+| **Async & Messaging** | Redis Streams, Pub/Sub, message queues |
+| **DevOps & Tools** | Docker, GitHub Actions (CI/CD), Git, Postman, Linux
 
 ---
 
-## Current Focus
+## Connect
 
-* Scalable backend systems
-* Cloud deployment and infrastructure
-* System design
-* Performance optimization
-* AI integrations for business workflows
-* Kubernetes
-  
----
-
-## GitHub Goals
-
-* Build useful real world products
-* Contribute to quality open source projects
-* Improve engineering depth
-* Ship consistently
-
----
-
-## Open To Opportunities
-
-* Full Time Roles
-* Freelance Work
-* Remote Projects
-* Startup Collaborations
-
----
-
-## Connect With Me
-
-* LinkedIn: [https://www.linkedin.com/in/harshxengr/](https://www.linkedin.com/in/harshxengr/)
-* X: [https://x.com/harshxengr](https://x.com/harshxengr)
-* Portfolio: [https://harshsaini.vercel.app/](https://harshsaini.vercel.app/)
-* Email: [singhharshsaini7@gmail.com](mailto:singhharshsaini7@gmail.com)
-
----
-
-## Motto
-
-Build skills. Build systems. Build value.
+- LinkedIn: [linkedin.com/in/harshxengr](https://www.linkedin.com/in/harshxengr/)
+- X: [@harshxengr](https://x.com/harshxengr)
+- Email: [singhharshsaini7@gmail.com](mailto:singhharshsaini7@gmail.com)
